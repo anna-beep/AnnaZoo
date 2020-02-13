@@ -7,7 +7,6 @@ public class Animal {
         this.favoriteFood = favoriteFood;
         population++;
     }
-
     public void sleep() {
         System.out.println(name + " sleeps for 8 hours");
     }
